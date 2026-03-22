@@ -35,8 +35,9 @@ cd Pipsi-HSR
 mkdir -p include/global
 git clone -b honkai-star-rail https://github.com/Z4ee/animesdk include/global
 ```
+3. Install detours via vcpkg
 
-3. Compile the project
+4. Compile the project
 
 - Open the `.sln` solution file in **Visual Studio 2022**
 - Set configuration to **Release** and platform to **x64**
